@@ -1,4 +1,4 @@
-
+//program wykorzystany do usprawnienia testowania oprogramowania
 import javax.swing.*;
 import java.io.*;
 
